@@ -16,7 +16,7 @@
 
 # Experiences
 * http://www.someecards.com/news/so-that-happened/mansplaining-stories/
-* http://www.theatlantic.com/business/archive/2013/09/the-brogrammer-effect-women-are-a-small-and-shrinking-* share-of-computer-workers/279611/
+* http://www.theatlantic.com/business/archive/2013/09/the-brogrammer-effect-women-are-a-small-and-shrinking-share-of-computer-workers/279611/
 * https://www.youtube.com/watch?v=z7ihNLEDiuM&feature=youtu.be (Neil DeGrasse Tyson)
 * http://www.forbes.com/sites/meghancasserly/2012/03/23/women-party-favors-eye-candy-shanley-kane-women-in-tech/#39c5db842ba6
 * https://storify.com/charlesarthur/oh-hai-sexism (wow!)
