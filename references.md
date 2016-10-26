@@ -1,7 +1,6 @@
 # Links -- general
 * http://blog.fogus.me/2013/10/02/women-in-tech/
 * https://github.com/strangeloop/StrangeLoop2013/blob/master/slides/sessions/Myers-MakingSoftwareMakeSense.pdf 
-(look for some of these…)
 
 # Women in Tech - positive
 * https://www.washingtonpost.com/news/parenting/wp/2016/08/12/bad-moms-are-actually-quite-good/
