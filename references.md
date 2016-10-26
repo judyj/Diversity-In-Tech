@@ -56,7 +56,7 @@
 * https://www.washingtonpost.com/news/powerpost/wp/2016/09/13/white-house-women-are-now-in-the-room-where-it-happens/?mc_cid=23
 * https://medium.com/startup-grind/diversity-is-a-broken-product-in-tech-fix-it-808598d4b2a8#.d866bpicq (has some history)
 * http://www.forbes.com/sites/clareoconnor/2016/03/03/black-woman-engineer-launches-blind-job-match-app-to-take-bias-out-of-tech-hiring/#5042d4b3601c
-* https://www.washingtonpost.com/news/grade-point/wp/2016/09/26/an-ivy-league-professor-on-why-colleges-dont-* hire-more-faculty-of-color-we-dont-want-them/?postshare=3031475079461521&tid=ss_tw (this is minorities in education, but still relevant)
+* https://www.washingtonpost.com/news/grade-point/wp/2016/09/26/an-ivy-league-professor-on-why-colleges-dont-hire-more-faculty-of-color-we-dont-want-them/?postshare=3031475079461521&tid=ss_tw (this is minorities in education, but still relevant)
 * http://observer.com/2016/10/mark-cuban-has-a-plan-to-make-silicon-valley-better-for-women/
 
 # What happened? Why?
@@ -84,7 +84,7 @@
 * http://www.motherjones.com/mojo/2013/06/silicon-valley-race-gender-problem-income-inequality
 * https://www.reddit.com/r/cscareerquestions/comments/3hvvpn/how_many_women_in_your_workplace_are_software/
 * http://college.usatoday.com/2016/07/01/women-outnumber-men-in-a-graduating-class-of-engineers-for-the-first-time-ever/
-Evidence That Gendered Wording in Job Advertisements Exists and Sustains Gender Inequality  (gendered wording in job  advertisements!!)
+* http://www.fortefoundation.org/site/DocServer/gendered_wording_JPSP.pdf?docID=16121
 
 
 # Women In Engineering Groups - about
