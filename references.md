@@ -1,6 +1,7 @@
 # Links -- general
 * http://blog.fogus.me/2013/10/02/women-in-tech/
 * https://github.com/strangeloop/StrangeLoop2013/blob/master/slides/sessions/Myers-MakingSoftwareMakeSense.pdf 
+* https://sites.google.com/site/sierraclubdei/glossary-of-terms
 
 # Women in Tech - positive
 * https://www.washingtonpost.com/news/parenting/wp/2016/08/12/bad-moms-are-actually-quite-good/
@@ -48,6 +49,8 @@
 * http://gizmodo.com/cool-kids-say-fuck-at-the-office-study-1787624873 
 * http://www.glamour.com/story/watch-your-mouth-more-women-swear-at-work-than-men
 
+# Company Culture
+* http://martinrusev.me/blog/company-culture-by-accident-or-choice/
 
 # Corporate How-To Ideas
 * https://www.fastcompany.com/3008216/tracking/minding-gap-how-your-company-can-woo-female-coders ****   hits all aspects -- great!
