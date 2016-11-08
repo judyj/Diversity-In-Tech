@@ -5,5 +5,5 @@ Anyone who wants to comment can use an issue ticket or reach me via twitter http
 
 * Here are some links I have collected about diversity: https://github.com/judyj/Diversity-In-Tech/blob/master/references.md
 * Here are the slides from our presentation https://github.com/judyj/Diversity-In-Tech/blob/master/Lead%20the%20Charge.pdf
-* Here is our Corporate Culture Worksheet (coming soon!)
+* Here is our Corporate Culture Worksheet https://github.com/judyj/Diversity-In-Tech/blob/master/CorporateCultureWorksheet.pdf
 
