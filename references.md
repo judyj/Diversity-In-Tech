@@ -116,6 +116,7 @@
 * http://web.archive.org/web/20031216215957/http://mndnet.com/archive/f/farrell/farrell_1.htm
 * http://www.huffingtonpost.com/damon-young/men-just-dont-trust-women_b_6714280.html
 * http://jezebel.com/lawsuit-accuses-marissa-mayer-other-female-yahoo-execs-1787530305
+* https://dzone.com/articles/what-can-men-do
 
 
 # Books
