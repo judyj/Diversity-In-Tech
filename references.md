@@ -82,6 +82,9 @@
 * https://www.buzzfeed.com/katienotopoulos/we-went-to-techcrunch-disrupt-and-asked-people-how-to-fix-th?utm_term=.whYKr13M8#.teBMo8l1k
 * https://techcrunch.com/2014/05/28/google-admits-it-hires-too-many-white-dudes/
 * http://blogs.wsj.com/experts/2016/10/07/the-real-problem-facing-women-and-minority-owned-tech-startups/
+* https://medium.com/tech-diversity-files/the-real-reason-women-quit-tech-and-how-to-address-it-6dfb606929fd#.fvxw6haz1
+* https://hbr.org/ideacast/2010/08/women-are-over-mentored-but-un.html
+* https://hbr.org/2010/09/why-men-still-get-more-promotions-than-women
 
 # Stats
 * http://stackoverflow.com/research/developer-survey-2015#profile-gender
@@ -90,7 +93,6 @@
 * https://www.reddit.com/r/cscareerquestions/comments/3hvvpn/how_many_women_in_your_workplace_are_software/
 * http://college.usatoday.com/2016/07/01/women-outnumber-men-in-a-graduating-class-of-engineers-for-the-first-time-ever/
 * http://www.fortefoundation.org/site/DocServer/gendered_wording_JPSP.pdf?docID=16121
-
 
 # Women In Engineering Groups - about
 * https://www.reddit.com/r/cscareerquestions/comments/4omng9/women_in_engineering_group_make_me_uncomfortable/
@@ -111,7 +113,6 @@
 
 # Mundane female things
 * https://www.fastcompany.com/3058412/most-creative-people/this-womens-clothing-brand-is-made-for-professional-women-who-hate-to-s
-
 
 # Men’s perspective
 * http://web.archive.org/web/20031216215957/http://mndnet.com/archive/f/farrell/farrell_1.htm
