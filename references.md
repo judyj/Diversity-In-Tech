@@ -38,7 +38,6 @@
 * http://www.catalyst.org/media/damned-or-doomed-catalyst-study-gender-stereotyping-work-uncovers-double-bind-dilemmas-women
 * http://www.npr.org/2016/10/18/498309357/too-sweet-or-too-shrill-the-double-bind-for-women 
 
-
 # Communication
 * https://www.behance.net/gallery/22912099/7-Ways-to-Combat-Manterrupting
 * https://www.engr.psu.edu/awe/ARPAbstracts/CommunicationsSkills/ARP_CommunicationStyles_Literature%20Overview.pdf
@@ -51,6 +50,9 @@
 
 # Company Culture
 * http://martinrusev.me/blog/company-culture-by-accident-or-choice/
+
+# What can men do?
+* https://dzone.com/articles/what-can-men-do
 
 # Corporate How-To Ideas
 * https://www.fastcompany.com/3008216/tracking/minding-gap-how-your-company-can-woo-female-coders ****   hits all aspects -- great!
@@ -103,7 +105,6 @@
 * http://www.techgirlsaresuperheroes.org/
 * Girl Develop It (find a local GDI chapter)
 
-
 # Cartoons & Images
 * https://pbs.twimg.com/media/B_kIhlPWIAACakC.jpg
 
@@ -116,8 +117,6 @@
 * http://web.archive.org/web/20031216215957/http://mndnet.com/archive/f/farrell/farrell_1.htm
 * http://www.huffingtonpost.com/damon-young/men-just-dont-trust-women_b_6714280.html
 * http://jezebel.com/lawsuit-accuses-marissa-mayer-other-female-yahoo-execs-1787530305
-* https://dzone.com/articles/what-can-men-do
-
 
 # Books
 * https://www.amazon.com/Unlocking-Clubhouse-Computing-Jane-Margolis/dp/0262632691
