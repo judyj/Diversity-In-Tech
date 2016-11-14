@@ -7,6 +7,8 @@
 * https://www.washingtonpost.com/news/parenting/wp/2016/08/12/bad-moms-are-actually-quite-good/
 * http://fivethirtyeight.com/features/the-queen-of-code/
 
+# Ongoing Research
+* http://www.incontextdesign.com/womenintech/
 
 # Cool things (kids, even)
 * https://mic.com/articles/153300/finally-there-s-a-feminist-magazine-kazoo-for-girls-who-love-science-and-climbing-trees#.2DOKSsFrv
