@@ -50,6 +50,9 @@
 * http://gizmodo.com/cool-kids-say-fuck-at-the-office-study-1787624873 
 * http://www.glamour.com/story/watch-your-mouth-more-women-swear-at-work-than-men
 
+# Recruiting
+* https://medium.freecodecamp.com/you-cant-fix-diversity-in-tech-without-fixing-the-technical-interview-here-s-the-data-93130f977da2#.yxs4047q7
+
 # Company Culture
 * http://martinrusev.me/blog/company-culture-by-accident-or-choice/
 
