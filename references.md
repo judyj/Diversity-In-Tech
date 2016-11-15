@@ -16,7 +16,6 @@
 * http://www.amightygirl.com/blog?p=12223
 * http://www.unicode.org/L2/L2016/16160-emoji-professions.pdf
 
-
 # Experiences
 * http://www.someecards.com/news/so-that-happened/mansplaining-stories/
 * http://www.theatlantic.com/business/archive/2013/09/the-brogrammer-effect-women-are-a-small-and-shrinking-share-of-computer-workers/279611/
@@ -31,7 +30,6 @@
 * http://corgibytes.com/blog/2016/09/01/bridging-technical-non-technical-divide/ 
 * http://www.vanityfair.com/news/2016/10/circle-dinner-julie-smolyanksy?utm_content=buffer88d76&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 * http://www.theatlantic.com/technology/archive/2016/10/is-silicon-valley-a-meritocracy/503948/ 
-
 
 # Stereotypes
 * http://www.womenyoushouldknow.net/girls-deserve-a-better-life-better-than-the-inane-stereotyped-version-marketed-to-them/
@@ -49,6 +47,9 @@
 * http://nymag.com/scienceofus/2016/09/power-poses-co-author-i-dont-think-power-poses-are-real.html (“power poses” debunked!)
 * http://gizmodo.com/cool-kids-say-fuck-at-the-office-study-1787624873 
 * http://www.glamour.com/story/watch-your-mouth-more-women-swear-at-work-than-men
+
+# Race
+* https://hackernoon.com/to-be-a-young-black-man-working-in-an-office-full-of-white-people-fcf137d152c8#.a0gs3l9xq
 
 # Recruiting
 * https://medium.freecodecamp.com/you-cant-fix-diversity-in-tech-without-fixing-the-technical-interview-here-s-the-data-93130f977da2#.yxs4047q7
