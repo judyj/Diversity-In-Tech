@@ -16,6 +16,9 @@
 * http://www.amightygirl.com/blog?p=12223
 * http://www.unicode.org/L2/L2016/16160-emoji-professions.pdf
 
+# Education
+* http://linkis.com/ww2.kqed.org/mindshi/xegGd
+
 # Experiences
 * http://www.someecards.com/news/so-that-happened/mansplaining-stories/
 * http://www.theatlantic.com/business/archive/2013/09/the-brogrammer-effect-women-are-a-small-and-shrinking-share-of-computer-workers/279611/
@@ -37,6 +40,7 @@
 * http://mashable.com/2016/10/05/java-computer-scientist-mansplaining/#u6nJIZaXjSqS 
 * http://www.catalyst.org/media/damned-or-doomed-catalyst-study-gender-stereotyping-work-uncovers-double-bind-dilemmas-women
 * http://www.npr.org/2016/10/18/498309357/too-sweet-or-too-shrill-the-double-bind-for-women 
+* http://www.nytimes.com/2016/11/12/us/because-i-was-a-girl-i-was-told.html
 
 # Communication
 * https://www.behance.net/gallery/22912099/7-Ways-to-Combat-Manterrupting
@@ -91,6 +95,7 @@
 * https://medium.com/tech-diversity-files/the-real-reason-women-quit-tech-and-how-to-address-it-6dfb606929fd#.fvxw6haz1
 * https://hbr.org/ideacast/2010/08/women-are-over-mentored-but-un.html
 * https://hbr.org/2010/09/why-men-still-get-more-promotions-than-women
+* https://www.progressivewomensleadership.com/gender-equality-in-the-workplace-or-life-on-mars-which-will-come-first/
 
 # Stats
 * http://stackoverflow.com/research/developer-survey-2015#profile-gender
