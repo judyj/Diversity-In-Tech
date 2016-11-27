@@ -121,6 +121,8 @@
 # Cartoons & Images
 * https://pbs.twimg.com/media/B_kIhlPWIAACakC.jpg
 
+# Female Role Models (?)
+* http://www.abc.net.au/7.30/content/2016/s4581393.htm
 
 # Mundane female things
 * https://www.fastcompany.com/3058412/most-creative-people/this-womens-clothing-brand-is-made-for-professional-women-who-hate-to-s
