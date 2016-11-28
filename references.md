@@ -6,6 +6,7 @@
 # Women in Tech - positive
 * https://www.washingtonpost.com/news/parenting/wp/2016/08/12/bad-moms-are-actually-quite-good/
 * http://fivethirtyeight.com/features/the-queen-of-code/
+* http://www.zdnet.com/article/women-in-the-workplace-a-12-trillion-opportunity/
 
 # Ongoing Research
 * http://www.incontextdesign.com/womenintech/
