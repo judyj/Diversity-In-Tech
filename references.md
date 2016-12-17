@@ -42,6 +42,7 @@
 * http://www.catalyst.org/media/damned-or-doomed-catalyst-study-gender-stereotyping-work-uncovers-double-bind-dilemmas-women
 * http://www.npr.org/2016/10/18/498309357/too-sweet-or-too-shrill-the-double-bind-for-women 
 * http://www.nytimes.com/2016/11/12/us/because-i-was-a-girl-i-was-told.html
+* https://www.care.com/c/stories/8205/working-mom-say-what/
 
 # Communication
 * https://www.behance.net/gallery/22912099/7-Ways-to-Combat-Manterrupting
@@ -64,6 +65,7 @@
 
 # What can men do?
 * https://dzone.com/articles/what-can-men-do
+* https://hbr.org/2016/12/the-men-who-mentor-women
 
 # Corporate How-To Ideas
 * https://www.fastcompany.com/3008216/tracking/minding-gap-how-your-company-can-woo-female-coders ****   hits all aspects -- great!
@@ -74,6 +76,8 @@
 * http://www.forbes.com/sites/clareoconnor/2016/03/03/black-woman-engineer-launches-blind-job-match-app-to-take-bias-out-of-tech-hiring/#5042d4b3601c
 * https://www.washingtonpost.com/news/grade-point/wp/2016/09/26/an-ivy-league-professor-on-why-colleges-dont-hire-more-faculty-of-color-we-dont-want-them/?postshare=3031475079461521&tid=ss_tw (this is minorities in education, but still relevant)
 * http://observer.com/2016/10/mark-cuban-has-a-plan-to-make-silicon-valley-better-for-women/
+* http://fortune.com/2016/12/05/diversity-inclusion-workplaces/
+* http://blogs.workday.com/workday-signs-white-house-equal-pay-pledge/
 
 # What happened? Why?
 * http://www.npr.org/sections/money/2014/10/17/356944145/episode-576-when-women-stopped-coding
@@ -97,6 +101,7 @@
 * https://hbr.org/ideacast/2010/08/women-are-over-mentored-but-un.html
 * https://hbr.org/2010/09/why-men-still-get-more-promotions-than-women
 * https://www.progressivewomensleadership.com/gender-equality-in-the-workplace-or-life-on-mars-which-will-come-first/
+* http://www.recode.net/2016/12/1/13805948/first-round-capital-founders-survey-2016-diversity-problem-tech
 
 # Stats
 * http://stackoverflow.com/research/developer-survey-2015#profile-gender
@@ -105,6 +110,8 @@
 * https://www.reddit.com/r/cscareerquestions/comments/3hvvpn/how_many_women_in_your_workplace_are_software/
 * http://college.usatoday.com/2016/07/01/women-outnumber-men-in-a-graduating-class-of-engineers-for-the-first-time-ever/
 * http://www.fortefoundation.org/site/DocServer/gendered_wording_JPSP.pdf?docID=16121
+* https://www.progressivewomensleadership.com/are-women-ceos-more-rare-than-shark-attacks/
+* http://inmotionmagazine.com/glass.html
 
 # Women In Engineering Groups - about
 * https://www.reddit.com/r/cscareerquestions/comments/4omng9/women_in_engineering_group_make_me_uncomfortable/
@@ -132,9 +139,12 @@
 * http://web.archive.org/web/20031216215957/http://mndnet.com/archive/f/farrell/farrell_1.htm
 * http://www.huffingtonpost.com/damon-young/men-just-dont-trust-women_b_6714280.html
 * http://jezebel.com/lawsuit-accuses-marissa-mayer-other-female-yahoo-execs-1787530305
+* http://inmotionmagazine.com/glass.html
 
 # Books
 * https://www.amazon.com/Unlocking-Clubhouse-Computing-Jane-Margolis/dp/0262632691
+* http://www.iccs.org.uk/girls-science-really-awesome-picture-book/
+* 
 
 # Stuff i like but could not figure out how to categorize (or just haven't gotten to it yet)
 * https://www.youtube.com/watch?v=fUXdrl9ch_Q
