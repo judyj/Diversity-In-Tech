@@ -1,5 +1,5 @@
 # Links -- general
-* http://blog.fogus.me/2013/10/02/women-in-tech/
+* [Women In Tech](http://blog.fogus.me/2013/10/02/women-in-tech/)
 * https://github.com/strangeloop/StrangeLoop2013/blob/master/slides/sessions/Myers-MakingSoftwareMakeSense.pdf 
 * https://sites.google.com/site/sierraclubdei/glossary-of-terms
 
@@ -7,6 +7,8 @@
 * https://www.washingtonpost.com/news/parenting/wp/2016/08/12/bad-moms-are-actually-quite-good/
 * http://fivethirtyeight.com/features/the-queen-of-code/
 * http://www.zdnet.com/article/women-in-the-workplace-a-12-trillion-opportunity/
+* https://medium.com/tech-ladies/i-left-my-job-at-google-to-build-tech-ladies-full-time-b14ddf060f15#.87qf8epiv
+* http://www.abc.net.au/7.30/content/2016/s4581393.htm
 
 # Ongoing Research
 * http://www.incontextdesign.com/womenintech/
@@ -19,6 +21,9 @@
 
 # Education
 * http://linkis.com/ww2.kqed.org/mindshi/xegGd
+
+# Why
+* https://www.fastcompany.com/3066845/black-girls-code-founder-on-importance-of-diversity-and-women-in-technology
 
 # Experiences
 * http://www.someecards.com/news/so-that-happened/mansplaining-stories/
@@ -34,6 +39,10 @@
 * http://corgibytes.com/blog/2016/09/01/bridging-technical-non-technical-divide/ 
 * http://www.vanityfair.com/news/2016/10/circle-dinner-julie-smolyanksy?utm_content=buffer88d76&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 * http://www.theatlantic.com/technology/archive/2016/10/is-silicon-valley-a-meritocracy/503948/ 
+* http://www.recode.net/2016/12/20/14013610/gender-diversity-women-race-age-geography-initiative
+* https://medium.com/this-is-hard/ffffff-diversity-1bd2b3421e8a#.oguyhupgu
+* https://hypatia.ca/2015/09/23/bingo-and-beyond/
+* https://medium.com/the-mission/2017-rise-of-the-women-in-tech-46e5ccc22f25#.ixo3ys3x7
 
 # Stereotypes
 * http://www.womenyoushouldknow.net/girls-deserve-a-better-life-better-than-the-inane-stereotyped-version-marketed-to-them/
@@ -57,6 +66,9 @@
 # Race
 * https://hackernoon.com/to-be-a-young-black-man-working-in-an-office-full-of-white-people-fcf137d152c8#.a0gs3l9xq
 
+# Disabilities
+* http://spectrum.ieee.org/at-work/tech-careers/why-hire-engineers-with-disabilities-theyre-practiced-problem-solvers
+
 # Recruiting
 * https://medium.freecodecamp.com/you-cant-fix-diversity-in-tech-without-fixing-the-technical-interview-here-s-the-data-93130f977da2#.yxs4047q7
 
@@ -67,7 +79,7 @@
 * https://dzone.com/articles/what-can-men-do
 * https://hbr.org/2016/12/the-men-who-mentor-women
 
-# Corporate How-To Ideas
+# How-To Ideas
 * https://www.fastcompany.com/3008216/tracking/minding-gap-how-your-company-can-woo-female-coders ****   hits all aspects -- great!
 * http://blog.printf.net/articles/2008/10/18/response-to-ten-easy-ways-to-attract-women-to-your-free-software-project/
 * http://www.freesoftwaremagazine.com/articles/ten_easy_ways_attract_women_your_free_software_project
@@ -78,6 +90,8 @@
 * http://observer.com/2016/10/mark-cuban-has-a-plan-to-make-silicon-valley-better-for-women/
 * http://fortune.com/2016/12/05/diversity-inclusion-workplaces/
 * http://blogs.workday.com/workday-signs-white-house-equal-pay-pledge/
+* https://www.themuse.com/advice/the-age-of-the-whole-human-workplace-how-companies-today-are-taking-care-of-their-employees
+* https://www.fastcompany.com/3041339/strong-female-lead/10-commitments-that-will-make-a-difference-in-increasing-diversity-in-tec?utm_content=buffer2cc6d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 
 # What happened? Why?
 * http://www.npr.org/sections/money/2014/10/17/356944145/episode-576-when-women-stopped-coding
@@ -102,6 +116,9 @@
 * https://hbr.org/2010/09/why-men-still-get-more-promotions-than-women
 * https://www.progressivewomensleadership.com/gender-equality-in-the-workplace-or-life-on-mars-which-will-come-first/
 * http://www.recode.net/2016/12/1/13805948/first-round-capital-founders-survey-2016-diversity-problem-tech
+* https://ww2.kqed.org/news/2017/01/19/in-trump-era-where-are-diversity-efforts-in-silicon-valley-headed/
+* https://medium.com/tech-diversity-files/if-you-think-women-in-tech-is-just-a-pipeline-problem-you-haven-t-been-paying-attention-cb7a2073b996#.mvgwrer33
+* https://medium.com/tech-diversity-files/how-diversity-branding-hurts-diversity-fb29dd705481#.oa4ytg71m
 
 # Stats
 * http://stackoverflow.com/research/developer-survey-2015#profile-gender
@@ -124,22 +141,22 @@
 * http://www.codelikeagirl.com.au/
 * http://gogirl.org.au/
 * http://www.techgirlsaresuperheroes.org/
+* https://www.sitwithme.org/
 * Girl Develop It (find a local GDI chapter)
 
 # Cartoons & Images
 * https://pbs.twimg.com/media/B_kIhlPWIAACakC.jpg
 
-# Female Role Models (?)
-* http://www.abc.net.au/7.30/content/2016/s4581393.htm
-
 # Mundane female things
 * https://www.fastcompany.com/3058412/most-creative-people/this-womens-clothing-brand-is-made-for-professional-women-who-hate-to-s
+* https://www.progressivewomensleadership.com/best-womens-business-books-for-2017/
 
 # Men’s perspective
 * http://web.archive.org/web/20031216215957/http://mndnet.com/archive/f/farrell/farrell_1.htm
 * http://www.huffingtonpost.com/damon-young/men-just-dont-trust-women_b_6714280.html
 * http://jezebel.com/lawsuit-accuses-marissa-mayer-other-female-yahoo-execs-1787530305
 * http://inmotionmagazine.com/glass.html
+* http://blakesblog.com/a-thoughtful-minute-for-liz-henry/
 
 # Books
 * https://www.amazon.com/Unlocking-Clubhouse-Computing-Jane-Margolis/dp/0262632691
