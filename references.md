@@ -1,14 +1,14 @@
 # Links -- general
 * [Women In Tech](http://blog.fogus.me/2013/10/02/women-in-tech/)
-* https://github.com/strangeloop/StrangeLoop2013/blob/master/slides/sessions/Myers-MakingSoftwareMakeSense.pdf 
-* https://sites.google.com/site/sierraclubdei/glossary-of-terms
+* [Making Software Make Sense](https://github.com/strangeloop/StrangeLoop2013/blob/master/slides/sessions/Myers-MakingSoftwareMakeSense.pdf) 
+* [Diversity and Inclusion - Glossary of Terms](https://sites.google.com/site/sierraclubdei/glossary-of-terms)
 
 # Women in Tech - positive
-* https://www.washingtonpost.com/news/parenting/wp/2016/08/12/bad-moms-are-actually-quite-good/
-* http://fivethirtyeight.com/features/the-queen-of-code/
-* http://www.zdnet.com/article/women-in-the-workplace-a-12-trillion-opportunity/
-* https://medium.com/tech-ladies/i-left-my-job-at-google-to-build-tech-ladies-full-time-b14ddf060f15#.87qf8epiv
-* http://www.abc.net.au/7.30/content/2016/s4581393.htm
+* [A feminist scholar takes on “Bad Moms” and finds they’re actually perfect](https://www.washingtonpost.com/news/parenting/wp/2016/08/12/bad-moms-are-actually-quite-good/)
+* [The Queen of Code](http://fivethirtyeight.com/features/the-queen-of-code/)
+* [Women in the workplace: A $12 trillion opportunity](http://www.zdnet.com/article/women-in-the-workplace-a-12-trillion-opportunity/)
+* [I left my job at Google to build Tech Ladies full-time](https://medium.com/tech-ladies/i-left-my-job-at-google-to-build-tech-ladies-full-time-b14ddf060f15#.87qf8epiv)
+* [Garbage singer Manson talks women's rights and the pursuit of beauty](http://www.abc.net.au/7.30/content/2016/s4581393.htm)
 
 # Ongoing Research
 * http://www.incontextdesign.com/womenintech/
