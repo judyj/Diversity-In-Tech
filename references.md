@@ -81,6 +81,7 @@
 # What can men do?
 * https://dzone.com/articles/what-can-men-do
 * https://hbr.org/2016/12/the-men-who-mentor-women
+* [How male allies can support women in technology](https://techcrunch.com/2016/12/31/how-male-allies-can-support-women-in-technology/)
 
 # How-To Ideas - for Industry
 * https://www.fastcompany.com/3008216/tracking/minding-gap-how-your-company-can-woo-female-coders
@@ -98,7 +99,6 @@
 * [Robots, Women in STEM, and the Future of Work](https://stories.rvcreatives.com/robots-women-in-stem-and-the-future-of-work-9c6d98c48408#.gv3hbe8jc)
 * [How to Close a Gender Gap: Let Employees Control Their Schedules](https://www.nytimes.com/2017/02/07/upshot/how-to-close-a-gender-gap-let-employees-control-their-schedules.html)
 * [Women-Focused Networking Events Can Make a Big Difference, Says Twitter's Vinu Charanya](https://www.linux.com/news/women-focused-networking-events-can-make-big-difference-says-twitters-vinu-charanya)
-* [How male allies can support women in technology](https://techcrunch.com/2016/12/31/how-male-allies-can-support-women-in-technology/)
 * [Lessons in inclusive hiring: what I’ve learnt](https://medium.com/@s_m_i/lessons-in-inclusive-hiring-what-ive-learnt-d8501d8925d5#.2rvvr1jmt)
 
 # How-To Ideas - for women
