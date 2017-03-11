@@ -9,6 +9,7 @@
 * [Women in the workplace: A $12 trillion opportunity](http://www.zdnet.com/article/women-in-the-workplace-a-12-trillion-opportunity/)
 * [I left my job at Google to build Tech Ladies full-time](https://medium.com/tech-ladies/i-left-my-job-at-google-to-build-tech-ladies-full-time-b14ddf060f15#.87qf8epiv)
 * [Garbage singer Manson talks women's rights and the pursuit of beauty](http://www.abc.net.au/7.30/content/2016/s4581393.htm)
+* [Is Open Source open to women? Three amazing women offer insight at SUSECON](https://www.suse.com/communities/blog/open-source-open-women-three-amazing-women-offer-insight-susecon/)
 
 # Ongoing Research
 * http://www.incontextdesign.com/womenintech/
@@ -65,9 +66,11 @@
 
 # Race
 * https://hackernoon.com/to-be-a-young-black-man-working-in-an-office-full-of-white-people-fcf137d152c8#.a0gs3l9xq
+* [A Positive Story About Being Black in Tech](https://medium.com/@anaptfox/a-positive-story-about-being-black-in-tech-ed4d8c3d2ec9#.d96ad4jii)
 
 # Disabilities
 * http://spectrum.ieee.org/at-work/tech-careers/why-hire-engineers-with-disabilities-theyre-practiced-problem-solvers
+* [Disability Rights Are Conspicuously Absent From The Women’s March Platform](https://theestablishment.co/disability-rights-are-conspicuously-absent-from-the-womens-march-platform-1d61cee62593#.mfuivu5sj)
 
 # Recruiting
 * https://medium.freecodecamp.com/you-cant-fix-diversity-in-tech-without-fixing-the-technical-interview-here-s-the-data-93130f977da2#.yxs4047q7
@@ -79,7 +82,7 @@
 * https://dzone.com/articles/what-can-men-do
 * https://hbr.org/2016/12/the-men-who-mentor-women
 
-# How-To Ideas
+# How-To Ideas - for Industry
 * https://www.fastcompany.com/3008216/tracking/minding-gap-how-your-company-can-woo-female-coders ****   hits all aspects -- great!
 * http://blog.printf.net/articles/2008/10/18/response-to-ten-easy-ways-to-attract-women-to-your-free-software-project/
 * http://www.freesoftwaremagazine.com/articles/ten_easy_ways_attract_women_your_free_software_project
@@ -92,6 +95,15 @@
 * http://blogs.workday.com/workday-signs-white-house-equal-pay-pledge/
 * https://www.themuse.com/advice/the-age-of-the-whole-human-workplace-how-companies-today-are-taking-care-of-their-employees
 * https://www.fastcompany.com/3041339/strong-female-lead/10-commitments-that-will-make-a-difference-in-increasing-diversity-in-tec?utm_content=buffer2cc6d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+* [Robots, Women in STEM, and the Future of Work](https://stories.rvcreatives.com/robots-women-in-stem-and-the-future-of-work-9c6d98c48408#.gv3hbe8jc)
+* [How to Close a Gender Gap: Let Employees Control Their Schedules](https://www.nytimes.com/2017/02/07/upshot/how-to-close-a-gender-gap-let-employees-control-their-schedules.html)
+* [Women-Focused Networking Events Can Make a Big Difference, Says Twitter's Vinu Charanya](ttps://www.linux.com/news/women-focused-networking-events-can-make-big-difference-says-twitters-vinu-charanya)
+* [How male allies can support women in technology](https://techcrunch.com/2016/12/31/how-male-allies-can-support-women-in-technology/)
+* [Lessons in inclusive hiring: what I’ve learnt](https://medium.com/@s_m_i/lessons-in-inclusive-hiring-what-ive-learnt-d8501d8925d5#.2rvvr1jmt)
+
+# How-To Ideas - for women
+* [In Which We Teach You How to be a Woman in any Boys' Club](http://thisrecording.com/today/2011/2/22/in-which-we-teach-you-how-to-be-a-woman-in-any-boys-club.html)
+* [How to feel all the feelings, and still kick ass](https://medium.com/facebook-design/how-to-feel-all-the-feelings-and-still-kick-ass-14d6bf3f2f05#.osdb5pefa)
 
 # What happened? Why?
 * http://www.npr.org/sections/money/2014/10/17/356944145/episode-576-when-women-stopped-coding
@@ -104,7 +116,7 @@
 * http://www.newsweek.com/2015/02/06/what-silicon-valley-thinks-women-302821.html
 * https://theconversation.com/the-real-reason-more-women-dont-code-59663
 * https://techcrunch.com/2016/05/10/the-lack-of-women-in-tech-is-more-than-a-pipeline-problem/
-* http://www.nytimes.com/2014/04/06/technology/technologys-man-problem.html?_r=0
+* http://www.nytimes.com/2014/04/06/technology/technologys-man-problem.html
 * https://www.linkedin.com/pulse/female-attrition-male-dominated-sectors-how-todays-michaels-primer
 * http://www.infoplease.com/science/general/digits-barriers-enablers-women-engineering.html (also has some ideas)
 * https://www.fastcompany.com/3059171/the-real-reason-women-are-leaving-stem-jobs
@@ -119,6 +131,10 @@
 * https://ww2.kqed.org/news/2017/01/19/in-trump-era-where-are-diversity-efforts-in-silicon-valley-headed/
 * https://medium.com/tech-diversity-files/if-you-think-women-in-tech-is-just-a-pipeline-problem-you-haven-t-been-paying-attention-cb7a2073b996#.mvgwrer33
 * https://medium.com/tech-diversity-files/how-diversity-branding-hurts-diversity-fb29dd705481#.oa4ytg71m
+* [Diversity is a broken product in tech. FIX IT.](https://medium.com/startup-grind/diversity-is-a-broken-product-in-tech-fix-it-808598d4b2a8#.4yre9qg6k)
+* [Computer Programming Used To Be Women’s Work](http://www.smithsonianmag.com/smart-news/computer-programming-used-to-be-womens-work-718061/)
+* [What Programming's Past Reveals About Today's Gender-Pay Gap](https://www.theatlantic.com/business/archive/2016/09/what-programmings-past-reveals-about-todays-gender-pay-gap/498797/)
+* [The Rise of Robots Will Make the Tech Gender Gap Even Worse](https://www.bloomberg.com/news/articles/2017-01-23/rise-of-powerful-women-at-davos-belies-coming-job-destruction)
 
 # Stats
 * http://stackoverflow.com/research/developer-survey-2015#profile-gender
@@ -161,7 +177,6 @@
 # Books
 * https://www.amazon.com/Unlocking-Clubhouse-Computing-Jane-Margolis/dp/0262632691
 * http://www.iccs.org.uk/girls-science-really-awesome-picture-book/
-* 
 
 # Stuff i like but could not figure out how to categorize (or just haven't gotten to it yet)
 * https://www.youtube.com/watch?v=fUXdrl9ch_Q
@@ -172,7 +187,7 @@
 * http://www.forbes.com/sites/nataliesportelli/2016/03/29/13-best-value-stem-colleges-for-women/#2762fa265245
 * http://www.theage.com.au/federal-politics/losing-my-religion-for-equality-20090714-dk0v.html
 * http://www.projecteve.com/5-ways-to-beat-imposter-syndrome/#.V9tAxdHeeV4
-* http://www.nytimes.com/2015/10/26/your-money/learning-to-deal-with-the-impostor-syndrome.html?_r=0
+* http://www.nytimes.com/2015/10/26/your-money/learning-to-deal-with-the-impostor-syndrome.html
 * http://www.sevendaysvt.com/vermont/miss-vermont-is-a-science-nerd/Content?oid=2850439
 * http://www.geekwire.com/2015/code-documentary-imagines-a-future-of-diversity-and-inclusion-in-tech/
 * https://mic.com/articles/115922/the-secret-tax-screwing-women-out-of-thousands-of-dollars-over-a-lifetime#.MODCQ0mzn
