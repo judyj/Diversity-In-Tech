@@ -83,7 +83,7 @@
 * https://hbr.org/2016/12/the-men-who-mentor-women
 
 # How-To Ideas - for Industry
-* https://www.fastcompany.com/3008216/tracking/minding-gap-how-your-company-can-woo-female-coders ****   hits all aspects -- great!
+* https://www.fastcompany.com/3008216/tracking/minding-gap-how-your-company-can-woo-female-coders
 * http://blog.printf.net/articles/2008/10/18/response-to-ten-easy-ways-to-attract-women-to-your-free-software-project/
 * http://www.freesoftwaremagazine.com/articles/ten_easy_ways_attract_women_your_free_software_project
 * https://www.washingtonpost.com/news/powerpost/wp/2016/09/13/white-house-women-are-now-in-the-room-where-it-happens/?mc_cid=23
@@ -97,7 +97,7 @@
 * https://www.fastcompany.com/3041339/strong-female-lead/10-commitments-that-will-make-a-difference-in-increasing-diversity-in-tec?utm_content=buffer2cc6d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 * [Robots, Women in STEM, and the Future of Work](https://stories.rvcreatives.com/robots-women-in-stem-and-the-future-of-work-9c6d98c48408#.gv3hbe8jc)
 * [How to Close a Gender Gap: Let Employees Control Their Schedules](https://www.nytimes.com/2017/02/07/upshot/how-to-close-a-gender-gap-let-employees-control-their-schedules.html)
-* [Women-Focused Networking Events Can Make a Big Difference, Says Twitter's Vinu Charanya](ttps://www.linux.com/news/women-focused-networking-events-can-make-big-difference-says-twitters-vinu-charanya)
+* [Women-Focused Networking Events Can Make a Big Difference, Says Twitter's Vinu Charanya](https://www.linux.com/news/women-focused-networking-events-can-make-big-difference-says-twitters-vinu-charanya)
 * [How male allies can support women in technology](https://techcrunch.com/2016/12/31/how-male-allies-can-support-women-in-technology/)
 * [Lessons in inclusive hiring: what I’ve learnt](https://medium.com/@s_m_i/lessons-in-inclusive-hiring-what-ive-learnt-d8501d8925d5#.2rvvr1jmt)
 
@@ -150,7 +150,7 @@
 * https://www.reddit.com/r/cscareerquestions/comments/4omng9/women_in_engineering_group_make_me_uncomfortable/
 
 # Organizations
-* http://www.unesco.org/new/en/communication-and-information/access-to-knowledge/free-and-open-source-software-foss/gender-equality-in-foss/ (Women in FOSS - link is broken)
+* [UNESCO is looking for initiatives promoting women’s role in Free and Open Source Software](http://www.unesco.org/new/en/media-services/single-view/news/unesco_is_looking_for_initiatives_promoting_womens_role_i/)
 * https://sallyridescience.com/
 * http://www.blackgirlscode.com/
 * https://girlswhocode.com/
@@ -209,6 +209,7 @@
 * http://psych.colorado.edu/~tito/Miyake_et_al_2010.pdf
 * http://www.wired.com/wiredenterprise/2013/03/hiring-women/
 * http://www.fat-net.org/content/bibliography-women-and-science-technology
+* [Gender Equality in Free and Open Source Software](http://www.wikigender.org/wiki/gender-equality-in-free-and-open-source-software/)
 
 
 
