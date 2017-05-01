@@ -133,5 +133,5 @@ the Federal Glass Ceiling Commission](http://inmotionmagazine.com/glass.html)
 * [“Inclusion” is not for outsiders](https://medium.com/@NaithanJones/inclusion-is-not-for-outsiders-3c0cda739b09)
 * [Dear Google, not all black computer nerds attend Howard.](https://www.linkedin.com/pulse/hey-google-you-know-all-black-computer-nerds-attend-howard-louis-byrd)
 * [Here’s what this black lady needs from your company culture](https://medium.com/2050work/heres-what-this-black-lady-needs-from-your-company-culture-e34a3f445587#.80zq93cra)
-* [White men to women and minorities in tech: We just DGAF - requires suscription, sorry](https://pando.com/2017/02/14/white-men-women-and-minorities-tech-we-just-dgaf/ceba19a45685d33b6f9cb161593d0fc5a9353144/)
+* [White men to women and minorities in tech: We just DGAF - requires subscription, sorry](https://pando.com/2017/02/14/white-men-women-and-minorities-tech-we-just-dgaf/ceba19a45685d33b6f9cb161593d0fc5a9353144/)
 
