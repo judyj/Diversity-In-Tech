@@ -87,14 +87,6 @@ the Federal Glass Ceiling Commission](http://inmotionmagazine.com/glass.html)
 * [Male engineering student writes perfect letter explaining why females aren't his equal ](http://shareably.net/male-engineering-student-explains-why-female-classmates-arent-his-equals-v1/)
 * [The U.K. Is ‘Naming and Shaming’ Employers Into Closing Their Gender Pay Gaps](http://fortune.com/2017/04/06/wage-gap-gender-uk-rule-publish/)
 * [The Roots of Implicit Bias](https://nyti.ms/2huFHbl)
-
-# Videos, Cartoons, etc
-* [How to Get More Women in Tech by Caroline Drucker - video](https://www.youtube.com/watch?v=TUvRPmL61SI&feature=share)
-* [Pinksourcing With Kristen Bell | Celebs Have Issues Ep. 1 - video](https://youtu.be/k_m5AlsQqcs)
-* [good teamwork and bad teamwork - video](https://www.youtube.com/watch?v=fUXdrl9ch_Q)
-* [Great cartoon](http://sorayachemaly.tumblr.com/post/84061311965)
-* [Neil Degrasse Tyson on being Black, and Women in Science - video](https://www.youtube.com/watch?v=z7ihNLEDiuM&feature=youtu.be)
-* [Stephen Hawking Teaches Piers Morgan A Valuable Lesson In Gender Equality - video](http://huff.to/2mIZoy6)
 * [Because I’m a Girl](https://medium.com/@katieaburke16/because-im-a-girl-95d8f02959d)
 * [Dear tech CEOs, here’s how to empower women in your company](http://blog.invisionapp.com/companies-empower-women-in-tech/)
 * [6 tips for women—and everyone—to build strong tech careers](http://blog.invisionapp.com/6-tips-build-strong-tech-careers/)
@@ -108,6 +100,14 @@ the Federal Glass Ceiling Commission](http://inmotionmagazine.com/glass.html)
 * [How 9 women in tech practice self care at work](https://medium.com/thewashingtonpost/how-9-women-in-tech-practice-self-care-at-work-90b0693e92a6#.sqef6yh6o)
 * [Want more women in tech? STOP hitting on us!](https://medium.com/athena-talks/want-more-women-in-tech-stop-hitting-on-us-3422b20fdcf7#.q5qcv7rtk)
 * [Donations and Women in Tech Panels are NOT a Diversity Strategy. Do Better.](https://medium.com/tech-diversity-files/donations-and-women-in-tech-panels-are-not-a-diversity-strategy-do-better-c3c51022a916#.u98x96ips)
+
+# Videos, Cartoons, etc
+* [Great cartoon](http://sorayachemaly.tumblr.com/post/84061311965)
+* [How to Get More Women in Tech by Caroline Drucker - video](https://www.youtube.com/watch?v=TUvRPmL61SI&feature=share)
+* [Pinksourcing With Kristen Bell | Celebs Have Issues Ep. 1 - video](https://youtu.be/k_m5AlsQqcs)
+* [good teamwork and bad teamwork - video](https://www.youtube.com/watch?v=fUXdrl9ch_Q)
+* [Neil Degrasse Tyson on being Black, and Women in Science - video](https://www.youtube.com/watch?v=z7ihNLEDiuM&feature=youtu.be)
+* [Stephen Hawking Teaches Piers Morgan A Valuable Lesson In Gender Equality - video](http://huff.to/2mIZoy6)
 
 # Organizations and Resources
 * [Sally Ride Science](https://sallyridescience.com/)
