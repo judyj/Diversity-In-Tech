@@ -168,6 +168,24 @@ the Federal Glass Ceiling Commission](http://inmotionmagazine.com/glass.html)
 * [How does biology explain the low numbers of women in computer science? Hint: it doesn't.](http://www.slideshare.net/terriko/how-does-biology-explain-the-low-numbers-of-women-in-cs-hint-it-doesnt/)
 
 
+# Diversity articles not necessarily gender-related
+* [To Be A Young Black Man Working In An Office Full of White People](https://hackernoon.com/to-be-a-young-black-man-working-in-an-office-full-of-white-people-fcf137d152c8#.a0gs3l9xq)
+* [A Positive Story About Being Black in Tech](https://medium.com/@anaptfox/a-positive-story-about-being-black-in-tech-ed4d8c3d2ec9#.d96ad4jii)
+* [Why Hire Engineers With Disabilities? They’re Practiced Problem Solvers](http://spectrum.ieee.org/at-work/tech-careers/why-hire-engineers-with-disabilities-theyre-practiced-problem-solvers)
+* [Disability Rights Are Conspicuously Absent From The Women’s March Platform](https://theestablishment.co/disability-rights-are-conspicuously-absent-from-the-womens-march-platform-1d61cee62593#.mfuivu5sj)
+* [Black Woman Engineer Launches 'Blind' Job Match App To Take Bias Out Of Tech Hiring](http://www.forbes.com/sites/clareoconnor/2016/03/03/black-woman-engineer-launches-blind-job-match-app-to-take-bias-out-of-tech-hiring/#5042d4b3601c)
+* [Diversity in tech too often means ‘hiring white women.’ We need to move beyond that.](http://www.recode.net/2016/12/20/14013610/gender-diversity-women-race-age-geography-initiative)
+* [Losing my religion for equality](http://www.theage.com.au/federal-politics/losing-my-religion-for-equality-20090714-dk0v.html)
+* [Google Admits It Hires Too Many White Dudes](https://techcrunch.com/2014/05/28/google-admits-it-hires-too-many-white-dudes/)
+* [“Inclusion” is not for outsiders](https://medium.com/@NaithanJones/inclusion-is-not-for-outsiders-3c0cda739b09)
+* [Dear Google, not all black computer nerds attend Howard.](https://www.linkedin.com/pulse/hey-google-you-know-all-black-computer-nerds-attend-howard-louis-byrd)
+* [Here’s what this black lady needs from your company culture](https://medium.com/2050work/heres-what-this-black-lady-needs-from-your-company-culture-e34a3f445587#.80zq93cra)
+* [White men to women and minorities in tech: We just DGAF - requires suscription, sorry](https://pando.com/2017/02/14/white-men-women-and-minorities-tech-we-just-dgaf/ceba19a45685d33b6f9cb161593d0fc5a9353144/)
+* [9 lessons I’ve learned in two years at Slack](https://medium.com/@RodneyU215/9-lessons-ive-learned-in-two-years-at-slack-d509d21d6e14)
+* [Diversity in Tech: The Inspiration Gap](https://medium.com/@julesdwalt/diversity-in-tech-the-inspiration-gap-951169a84cb8)
+* [Steps Teachers Can Take to Keep Girls and Minorities in Computer Science Education](http://linkis.com/ww2.kqed.org/mindshi/xegGd)
+
+
 # Organizations and Resources
 * [Sally Ride Science](https://sallyridescience.com/)
 * [Black Girls Code](http://www.blackgirlscode.com/)
