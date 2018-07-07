@@ -195,6 +195,14 @@ the Federal Glass Ceiling Commission](http://inmotionmagazine.com/glass.html)
 * [9 Non-Threatening Leadership Strategies for Women](http://thecooperreview.com/non-threatening-leadership-strategies-for-women/)
 * [Female Hackers Still Face Harassment at Conferences](https://motherboard.vice.com/en_us/article/8q8x3g/female-hackers-still-face-harassment-at-conferences)
 * [Simply put, we need more women in technology](http://digileaders.com/simply-put-we-need-more-women-in-technology/)
+* [Will Salary History Bans Boost Women’s Salaries?](https://jobs.ieee.org/jobs/content/Will-Salary-History-Bans-Boost-Womens-Salaries-2018-04-20)
+*[A look at the continued diversity gap in region's technology jobs](https://www.fredericknewspost.com/news/economy_and_business/employment/a-look-at-the-continued-diversity-gap-in-region-s/article_d9ab9d01-eac1-5470-aebe-91e11aaa0129.html)
+*[12 Inspiring Female Staff Engineers to Watch in 2018](https://you.women2.com/12-inspiring-female-staff-engineers-to-watch-b487b39558e1)
+*[How to respect women in your IT company](https://medium.com/@midorikocak/how-to-respect-women-in-your-it-company-406c86cd2032)
+*[Next-gen women engineers forge a new path in tech](https://www.cnet.com/news/women-computer-science-majors-diversity-tech-grace-hopper-students/)
+*[This Is How Dancing To Beyoncé Is Turning Underrepresented Girls Into Coders](https://www.fastcompany.com/40456198/this-is-how-dancing-to-beyonce-is-turning-underrepresented-girls-into-coders)
+*[These women want to fix cybersecurity’s massive gender gap](https://www.cnet.com/news/women-in-cybersecurity-push-for-cultural-shift-at-defcon/)
+*[5 books to help women in tech navigate work and life](https://yourstory.com/2018/02/5-books-help-women-in-tech-navigate-work-and-life/)
 
 # Videos, Cartoons, etc
 * [Great cartoon](http://sorayachemaly.tumblr.com/post/84061311965)
@@ -224,6 +232,9 @@ the Federal Glass Ceiling Commission](http://inmotionmagazine.com/glass.html)
 * [9 lessons I’ve learned in two years at Slack](https://medium.com/@RodneyU215/9-lessons-ive-learned-in-two-years-at-slack-d509d21d6e14)
 * [Diversity in Tech: The Inspiration Gap](https://medium.com/@julesdwalt/diversity-in-tech-the-inspiration-gap-951169a84cb8)
 * [Steps Teachers Can Take to Keep Girls and Minorities in Computer Science Education](http://linkis.com/ww2.kqed.org/mindshi/xegGd)
+* [What The Kids’ Game “Telephone” Taught Microsoft About Biased AI](https://www.fastcompany.com/90146078/what-the-kids-game-telephone-taught-microsoft-about-biased-ai)
+* [Out of corporate America’s diversity failures, a new industry is emerging](https://work.qz.com/1092540/techs-diversity-failures-are-a-massive-business-opportunity-for-the-minority-recruitment-industry/)
+* [The Tech World and Inclusivity](https://you.women2.com/the-tech-world-and-inclusivity-92fb8ba744f6)
 
 
 # Organizations and Resources
@@ -238,4 +249,5 @@ the Federal Glass Ceiling Commission](http://inmotionmagazine.com/glass.html)
 * [Feminist Approach to Technology](http://www.fat-net.org/blog)
 * [Model View Culture - A magazine about technology, culture and diversity.](https://modelviewculture.com/resources)
 * [WHAT IS THE WOMEN IN TECH PROJECT?](http://www.incontextdesign.com/womenintech/)
+* [30+ diversity and inclusion activists and organisations I look up to](https://medium.com/@fox/30-diversity-and-inclusion-activists-and-organisations-8b39b6bf537b)
 
