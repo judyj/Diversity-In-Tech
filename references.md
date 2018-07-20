@@ -234,6 +234,7 @@ the Federal Glass Ceiling Commission](http://inmotionmagazine.com/glass.html)
 * [What The Kids’ Game “Telephone” Taught Microsoft About Biased AI](https://www.fastcompany.com/90146078/what-the-kids-game-telephone-taught-microsoft-about-biased-ai)
 * [Out of corporate America’s diversity failures, a new industry is emerging](https://work.qz.com/1092540/techs-diversity-failures-are-a-massive-business-opportunity-for-the-minority-recruitment-industry/)
 * [The Tech World and Inclusivity](https://you.women2.com/the-tech-world-and-inclusivity-92fb8ba744f6)
+* [This VR Founder Wants to Gamify Empathy to Reduce Racial Bias](https://motherboard.vice.com/en_us/article/a3qeyk/this-vr-founder-wants-to-gamify-empathy-to-reduce-racial-bias)
 
 
 # Organizations and Resources
