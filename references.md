@@ -203,6 +203,7 @@ the Federal Glass Ceiling Commission](http://inmotionmagazine.com/glass.html)
 * [These women want to fix cybersecurity’s massive gender gap](https://www.cnet.com/news/women-in-cybersecurity-push-for-cultural-shift-at-defcon/)
 * [5 books to help women in tech navigate work and life](https://yourstory.com/2018/02/5-books-help-women-in-tech-navigate-work-and-life/)
 * [AI can be sexist and racist — it’s time to make it fair](https://www.nature.com/articles/d41586-018-05707-8)
+* [Role Models and Mentors](https://code.likeagirl.io/role-models-and-mentors-8eadfaae544)
 
 # Videos, Cartoons, etc
 * [Great cartoon](http://sorayachemaly.tumblr.com/post/84061311965)
