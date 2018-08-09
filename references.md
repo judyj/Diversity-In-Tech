@@ -204,6 +204,7 @@ the Federal Glass Ceiling Commission](http://inmotionmagazine.com/glass.html)
 * [5 books to help women in tech navigate work and life](https://yourstory.com/2018/02/5-books-help-women-in-tech-navigate-work-and-life/)
 * [AI can be sexist and racist — it’s time to make it fair](https://www.nature.com/articles/d41586-018-05707-8)
 * [Role Models and Mentors](https://code.likeagirl.io/role-models-and-mentors-8eadfaae544)
+* [The Bamboo Glass Ceiling - Asian American women face particular challenges in the workplace. And they’re not getting the attention they need](https://slate.com/human-interest/2018/08/asian-american-women-face-a-glass-ceiling-and-a-bamboo-ceiling-at-work.html)
 
 # Videos, Cartoons, etc
 * [Great cartoon](http://sorayachemaly.tumblr.com/post/84061311965)
