@@ -206,6 +206,7 @@ the Federal Glass Ceiling Commission](http://inmotionmagazine.com/glass.html)
 * [Role Models and Mentors](https://code.likeagirl.io/role-models-and-mentors-8eadfaae544)
 * [The Bamboo Glass Ceiling - Asian American women face particular challenges in the workplace. And they’re not getting the attention they need](https://slate.com/human-interest/2018/08/asian-american-women-face-a-glass-ceiling-and-a-bamboo-ceiling-at-work.html)
 * [Make Your Daughter Practice Math. She’ll Thank You Later.](https://www.nytimes.com/2018/08/07/opinion/stem-girls-math-practice.html)
+* [I’m a woman in tech, and this is what I love about it](https://code.likeagirl.io/im-a-woman-in-tech-and-this-is-what-i-love-about-it-9c2123fef033)
 
 # Videos, Cartoons, etc
 * [Great cartoon](http://sorayachemaly.tumblr.com/post/84061311965)
