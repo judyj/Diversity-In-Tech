@@ -220,6 +220,7 @@ the Federal Glass Ceiling Commission](http://inmotionmagazine.com/glass.html)
 * [Episode 576: When Women Stopped Coding - podcast](http://www.npr.org/sections/money/2014/10/17/356944145/episode-576-when-women-stopped-coding)
 * [Talks by brilliant women in STEM](https://www.ted.com/playlists/253/11_ted_talks_by_brilliant_wome)
 * [Madeleine Albright on her late career start, building confidence, and holding her own with male statesmen.](https://www.makers.com/profiles/591f288c4d21a8046c3a6361)
+* ["But whyyy do we have to do all this diversity stuff?"](https://inclusionatwork.co/but-whyyyy-do-we-have-to-do-all-this-diversity-stuff/)
 
 # Diversity articles not necessarily gender-related
 * [To Be A Young Black Man Working In An Office Full of White People](https://hackernoon.com/to-be-a-young-black-man-working-in-an-office-full-of-white-people-fcf137d152c8#.a0gs3l9xq)
