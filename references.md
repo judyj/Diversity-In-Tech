@@ -208,6 +208,13 @@ the Federal Glass Ceiling Commission](http://inmotionmagazine.com/glass.html)
 * [Make Your Daughter Practice Math. She’ll Thank You Later.](https://www.nytimes.com/2018/08/07/opinion/stem-girls-math-practice.html)
 * [I’m a woman in tech, and this is what I love about it](https://code.likeagirl.io/im-a-woman-in-tech-and-this-is-what-i-love-about-it-9c2123fef033)
 * ["But whyyy do we have to do all this diversity stuff?"](https://inclusionatwork.co/but-whyyyy-do-we-have-to-do-all-this-diversity-stuff/)
+* [The Current State of Women in Computer Science](https://www.computerscience.org/resources/women-in-computer-science/)
+* [Cracking the code: Why aren't more women majoring in computer science?](http://newsroom.ucla.edu/stories/cracking-the-code:-why-aren-t-more-women-majoring-in-computer-science)
+* [ACLU, Labor Union, Allege Facebook's Ad Targeting Discriminates By Gender](http://fortune.com/2018/09/18/facebook-gender-discrimination-aclu-ads/)
+* [White House downplays talk of executive order targeting internet bias](https://www.engadget.com/2018/09/22/white-house-downplays-internet-bias-order/)
+* [PRESS ROOM: New Coalition Aims To Double Number Of Women In Color In Tech](https://www.blackpressusa.com/press-room-new-coalition-aims-to-double-number-of-women-in-color-in-tech/)
+* [Womansplaining: books that every man should read](https://www.irishtimes.com/culture/books/womansplaining-books-that-every-man-should-read-1.2807403)
+ 
 
 # Videos, Cartoons, etc
 * [Great cartoon](http://sorayachemaly.tumblr.com/post/84061311965)
