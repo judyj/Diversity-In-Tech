@@ -27,7 +27,7 @@ train 1 million girls by 2040.
 
 ## March 2019
 
-* March 3 at UMBC [FIRST Tech Challenge – a middle/high school robotics program(https://drive.google.com/file/d/1CIF8PXDen2K-K9Y0ATSCxaTNj0VCyOOR/view)
+* March 3 at UMBC [FIRST Tech Challenge – a middle/high school robotics program](https://drive.google.com/file/d/1CIF8PXDen2K-K9Y0ATSCxaTNj0VCyOOR/view)
 
 ## April 2019
 
