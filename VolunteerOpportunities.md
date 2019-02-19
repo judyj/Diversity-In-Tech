@@ -14,6 +14,9 @@ space by empowering girls of color ages 7 to 17 to become innovators in STEM fie
 builders of their own futures through exposure to computer science and technology. To provide African-American youth with 
 the skills to occupy some of the 1.4 million computing job openings expected to be available in the U.S. by 2020, and to 
 train 1 million girls by 2040.
+* [Code in the Schools](https://www.codeintheschools.org/) We work to expand access to computer science education in Baltimore City. We believe that access to quality computer science education is a matter of equity. We envision Baltimore as a leader in the 21st century economy, and we are committed to preparing the youth of our city to be active participants in the growing technology sectors.
+* [Hack Baltimore](https://hackbaltimore.io/) HackBaltimore is an opportunity for individuals to be engaged residents
+and take an active role in our community. **Hack-A-Thon Coming Spring 2019!**
 
 # Events
 ## February 2019
