@@ -31,7 +31,7 @@ and take an active role in our community. **Hack-A-Thon Coming Spring 2019!**
 
 ## March 2019
 
-* March 3 at UMBC [FIRST Tech Challenge – a middle/high school robotics program](https://drive.google.com/file/d/1CIF8PXDen2K-K9Y0ATSCxaTNj0VCyOOR/view)
+* March 3 at UMBC [FIRST Tech Challenge – a middle/high school robotics program](https://www.firstinspires.org/team-event-search/event?id=41314)- Fill this out to [volunteer](https://drive.google.com/file/d/1CIF8PXDen2K-K9Y0ATSCxaTNj0VCyOOR/view)
 
 * March 3 [Girls who code Maker Space (weekly)](https://www.eventbrite.com/e/girls-who-code-maker-space-at-hcc-spring-2019-continued-from-fall-2018-tickets-49393953645) Girls Who Code is a national non-profit organization aimed at closing the gender gap in technology. Our new GWC Maker Space Club provides an independent environment where girls can explore their passion for computer programming and technology. Girls will work as a development team to design and code an application, pursue self-directed learning, and explore a diverse range of technical topics that may include mobile app design, hardware engineering, UX design, databases, cybersecurity, and more.
 
