@@ -214,7 +214,10 @@ the Federal Glass Ceiling Commission](http://inmotionmagazine.com/glass.html)
 * [White House downplays talk of executive order targeting internet bias](https://www.engadget.com/2018/09/22/white-house-downplays-internet-bias-order/)
 * [PRESS ROOM: New Coalition Aims To Double Number Of Women In Color In Tech](https://www.blackpressusa.com/press-room-new-coalition-aims-to-double-number-of-women-in-color-in-tech/)
 * [Womansplaining: books that every man should read](https://www.irishtimes.com/culture/books/womansplaining-books-that-every-man-should-read-1.2807403)
- 
+* [The Secret History of Women in Coding](https://www.nytimes.com/2019/02/13/magazine/women-coding-computer-programming.html)
+*  [Shameful: Women really do have to be at least twice as good as men to succeed](https://www.economist.com/science-and-technology/1997/05/22/shameful)
+* [Three Phrases To Help Girls Make Their Voices Heard](https://www.amightygirl.com/blog?p=20656)
+* [I Am the Girl That STEM Lost](https://medium.com/s/story/i-am-the-girl-that-stem-lost-923e6b93eeec)
 
 # Videos, Cartoons, etc
 * [Great cartoon](http://sorayachemaly.tumblr.com/post/84061311965)
@@ -249,6 +252,10 @@ the Federal Glass Ceiling Commission](http://inmotionmagazine.com/glass.html)
 * [Out of corporate America’s diversity failures, a new industry is emerging](https://work.qz.com/1092540/techs-diversity-failures-are-a-massive-business-opportunity-for-the-minority-recruitment-industry/)
 * [The Tech World and Inclusivity](https://you.women2.com/the-tech-world-and-inclusivity-92fb8ba744f6)
 * [This VR Founder Wants to Gamify Empathy to Reduce Racial Bias](https://motherboard.vice.com/en_us/article/a3qeyk/this-vr-founder-wants-to-gamify-empathy-to-reduce-racial-bias)
+* [This 27-Year-Old Nigerian Is On His Way To Becoming The World’s Highest Paid Robotics Engineer](https://newsone.com/3827896/silas-adekunle-worlds-highest-paid-robotics-engineer/)
+* [Here’s Why No Cisgender Men Are Allowed at This DC Hackathon](https://www.washingtonian.com/2018/10/19/heres-why-no-cisgender-men-are-allowed-at-this-dc-hackathon-tech-rebalanced-mindspace/)
+* [What Our Tech Ethics Crisis Says About the State of Computer Science Education](https://howwegettonext.com/what-our-tech-ethics-crisis-says-about-the-state-of-computer-science-education-a6a5544e1da6)
+ * [The weaponization of ‘learn to code’](https://thinkprogress.org/learn-to-code-decoded-the-campaign-against-laid-off-journalists-is-harassments-new-frontier-20725ddd480a/)
 
 
 # Organizations and Resources
