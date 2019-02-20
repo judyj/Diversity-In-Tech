@@ -1,3 +1,5 @@
+# Thanks for volunteering!
+Any additions/suggestions can be sent to [judy](mailto:judyfinkjohnson@gmail.com)
 
 # Projects
 * [Hour of code](https://hourofcode.com/us/learn) The hour of code project has assembled tons of projects that kids can do 
