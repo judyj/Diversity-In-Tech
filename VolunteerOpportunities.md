@@ -6,6 +6,7 @@ Any additions/suggestions can be sent to [judy](mailto:judyfinkjohnson@gmail.com
 in an hour (with or without techie parents) 
 * [TechGirlz](https://www.techgirlz.org/) TechGirlz is a nonprofit organization dedicated to reducing the gender gap in 
 technology occupations, by focusing on girls at the crucial middle school age. We offer free workshops to get girls interested in different kinds of technology, show them varied career options, and connect them with professionals in technology fields.
+* [Raspberry Pi projects](https://projects.raspberrypi.org/en/projects) Here are some great projects that will help you start writing code and get going with digital making.
 
 
 # Organizations
