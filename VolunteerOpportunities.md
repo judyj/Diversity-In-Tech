@@ -21,6 +21,9 @@ train 1 million girls by 2040.
 * [Hack Baltimore](https://hackbaltimore.io/) HackBaltimore is an opportunity for individuals to be engaged residents
 and take an active role in our community. **Hack-A-Thon Coming Spring 2019!**
 
+# HowGirlsCode Guest Speakers Needed - Elementary Schools - Spring 2019 Multiple Dates 
+* [Guest Speaker Signup](https://www.signupgenius.com/go/10c054ca8ac2ba3fb6-howgirlscode) We would love to have you come and share your experience as a professional in tech! Our girls want to hear about what it's like to to work in the profession or how their coding skills can be applied to solving problems! Content and duration are completely up to you (in coordination with the teacher). This can be gamified or presentation or just a quick talk. Generally, these last in the 15-20 minute range. The time range on the slots here represent the time of the day that class meets, but you will coordinate with the teachers of the groups when in that time slot you actually need to be there to speak.
+
 # Events
 ## February 2019
 
