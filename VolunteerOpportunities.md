@@ -47,7 +47,13 @@ and take an active role in our community. **Hack-A-Thon Coming Spring 2019!**
 
 * March 24 [Girls who code Maker Space (weekly)](https://www.eventbrite.com/e/girls-who-code-maker-space-at-hcc-spring-2019-continued-from-fall-2018-tickets-49393953645) Girls Who Code is a national non-profit organization aimed at closing the gender gap in technology. Our new GWC Maker Space Club provides an independent environment where girls can explore their passion for computer programming and technology. Girls will work as a development team to design and code an application, pursue self-directed learning, and explore a diverse range of technical topics that may include mobile app design, hardware engineering, UX design, databases, cybersecurity, and more.
 
-* March 30 [Make HERStory with TechGirlz](https://www.techgirlz.org/code-breakers/) As tech educators, we are always looking for more ways to get and keep our girls excited about technology. What better way than involving them in a record setting event during Women’s History Month! Join us on March 30th, 12-3pm EST, to be a part of history with TechGirlz. Local event is in [Hanover, MD](https://www.techgirlz.org/techshop/make-a-website-using-html-css-21/)
+* March 30 [Make HERStory with TechGirlz -Learn html and css](https://www.techgirlz.org/code-breakers/) As tech educators, we are always looking for more ways to get and keep our girls excited about technology. What better way than involving them in a record setting event during Women’s History Month! Join us on March 30th, 12-3pm EST, to be a part of history with TechGirlz. Local event is in [Hanover, MD](https://www.techgirlz.org/techshop/make-a-website-using-html-css-21/)
+
+* March 31 [Intro to Python](https://docs.google.com/forms/d/e/1FAIpQLSeJRXksyC7gP8t9PCgEtiVU6I6mYMizNYoYEaKBfhoajbULSQ/viewform) Join MCWiC for this one day workshop for an introduction to python on March 31st from 9-3pm! 
+Please complete this form for each student interested in participating in the workshop. 
+Note: There is a $20 fee for each student participating. Scholarships are available. 
+You will be contacted to confirm your participation and pay your registration fee. 
+Registration is opened to current 8th-12 graders.
 
 * March 31 [Girls who code Maker Space (weekly)](https://www.eventbrite.com/e/girls-who-code-maker-space-at-hcc-spring-2019-continued-from-fall-2018-tickets-49393953645) Girls Who Code is a national non-profit organization aimed at closing the gender gap in technology. Our new GWC Maker Space Club provides an independent environment where girls can explore their passion for computer programming and technology. Girls will work as a development team to design and code an application, pursue self-directed learning, and explore a diverse range of technical topics that may include mobile app design, hardware engineering, UX design, databases, cybersecurity, and more.
 
