@@ -25,15 +25,6 @@ and take an active role in our community. **Hack-A-Thon Coming Spring 2019!**
 * [Guest Speaker Signup](https://www.signupgenius.com/go/10c054ca8ac2ba3fb6-howgirlscode) We would love to have you come and share your experience as a professional in tech! Our girls want to hear about what it's like to to work in the profession or how their coding skills can be applied to solving problems! Content and duration are completely up to you (in coordination with the teacher). This can be gamified or presentation or just a quick talk. Generally, these last in the 15-20 minute range. The time range on the slots here represent the time of the day that class meets, but you will coordinate with the teachers of the groups when in that time slot you actually need to be there to speak.
 
 # Events
-## February 2019
-
-* February 15 from 4-5pm Friday Coding Club(Middle & High School): Learn Digital skills and coding concepts in a collaborative, fun, environment by creating games, animations, and web sites in a series of challenge-based classes. Attend any or all of the classes
-  * Grades:  6th - 12th
-  * Location: Elkridge Library
-
-* February 22 [Women In Engineering Day](https://github.com/judyj/Diversity-In-Tech/blob/master/WomenInEngineeringFlyer.pdf) (High School Students at Howard Community College)
-
-* February 24 [Girls who code Maker Space (weekly)](https://www.eventbrite.com/e/girls-who-code-maker-space-at-hcc-spring-2019-continued-from-fall-2018-tickets-49393953645) Girls Who Code is a national non-profit organization aimed at closing the gender gap in technology. Our new GWC Maker Space Club provides an independent environment where girls can explore their passion for computer programming and technology. Girls will work as a development team to design and code an application, pursue self-directed learning, and explore a diverse range of technical topics that may include mobile app design, hardware engineering, UX design, databases, cybersecurity, and more.
 
 ## March 2019
 
@@ -61,15 +52,23 @@ Registration is opened to current 8th-12 graders.
 
 * April 7 [Girls who code Maker Space (weekly)](https://www.eventbrite.com/e/girls-who-code-maker-space-at-hcc-spring-2019-continued-from-fall-2018-tickets-49393953645) Girls Who Code is a national non-profit organization aimed at closing the gender gap in technology. Our new GWC Maker Space Club provides an independent environment where girls can explore their passion for computer programming and technology. Girls will work as a development team to design and code an application, pursue self-directed learning, and explore a diverse range of technical topics that may include mobile app design, hardware engineering, UX design, databases, cybersecurity, and more.
 
+* April 12-14 [Bitcamp - University of Maryland](https://bit.camp/) Bitcamp is a place for exploration. You will have 36 hours to delve into your curiosities, learn something new, and make something awesome. With world-class mentors and 1,200+ fellow campers, you're in for an amazing time. Whether you're a seasoned hacker or completely new to the world of hacking, we'll have something for you. If you're ready for an adventure, see you by the fire! 
+
 * April 28 [Girls who code Maker Space (weekly)](https://www.eventbrite.com/e/girls-who-code-maker-space-at-hcc-spring-2019-continued-from-fall-2018-tickets-49393953645) Girls Who Code is a national non-profit organization aimed at closing the gender gap in technology. Our new GWC Maker Space Club provides an independent environment where girls can explore their passion for computer programming and technology. Girls will work as a development team to design and code an application, pursue self-directed learning, and explore a diverse range of technical topics that may include mobile app design, hardware engineering, UX design, databases, cybersecurity, and more.
 
 ## May 2019
 
 * May 5 [Girls who code Maker Space (weekly)](https://www.eventbrite.com/e/girls-who-code-maker-space-at-hcc-spring-2019-continued-from-fall-2018-tickets-49393953645) Girls Who Code is a national non-profit organization aimed at closing the gender gap in technology. Our new GWC Maker Space Club provides an independent environment where girls can explore their passion for computer programming and technology. Girls will work as a development team to design and code an application, pursue self-directed learning, and explore a diverse range of technical topics that may include mobile app design, hardware engineering, UX design, databases, cybersecurity, and more.
 
-## June 2019
+## June 2019 (also see Camps, below)
 
 * June 19 [2019 Cyber Conference: Cyber Sense Making ](https://howardmdcoc.wliinc23.com/events/2019Cyber%20Conference-1392/details) Howard Community College- Horowitz Visual and Performing Arts Center 
+
+## July 2019 (also see Camps, below)
+
+
+## August 2019 (also see Camps, below)
+
 
 # Camps
 
