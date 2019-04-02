@@ -24,6 +24,17 @@ and take an active role in our community. **Hack-A-Thon Coming Spring 2019!**
 # HowGirlsCode Guest Speakers Needed - Elementary Schools - Spring 2019 Multiple Dates 
 * [Guest Speaker Signup](https://www.signupgenius.com/go/10c054ca8ac2ba3fb6-howgirlscode) We would love to have you come and share your experience as a professional in tech! Our girls want to hear about what it's like to to work in the profession or how their coding skills can be applied to solving problems! Content and duration are completely up to you (in coordination with the teacher). This can be gamified or presentation or just a quick talk. Generally, these last in the 15-20 minute range. The time range on the slots here represent the time of the day that class meets, but you will coordinate with the teachers of the groups when in that time slot you actually need to be there to speak.
 
+# Volunteers needed for Bowie High School Research Symposium Tuesday April 9th  
+* [Bowie High School Research Symposium Tuesday April 9th] (https://docs.google.com/a/pgcps.org/forms/d/1dXJB0zzvgjEifp1vruHqn05lQXa0w3eo6TV7WiI5scM/edit?usp=drive_web)
+Hello, On Tuesday, April 9th (9:00am to 11:30am) Bowie High School will host our Inaugural Research Symposium and we need your help!<br>
+We are looking for STEM professionals to join us for the poster session, 9:00 am - 11:00 am to evaluate 9 senior students' year-long research project.  We are hoping this time is an opportunity for our young scientists to share their research and receive invaluable feedback and encouragement to continue seeking opportunities to build their scientific skills and literacy as they pursue STEM majors in college and beyond.<br>
+After the morning poster session, lunch will be served,11:30 am - 12:15 pm. <br>
+Please complete the attached Google Form if you are able to join us April 9th. Also share this information with colleagues who may be interested in inspiring students to follow in their footsteps and pursue STEM careers. <br>
+Please email me or call me at 301-805-2600 X80580 if you have questions . <br>
+Thank you for your support.<br>
+Sincerely, Sheikisha<br>
+Sheikisha Thomas, NBCT
+
 # Events
 
 ## March 2019
