@@ -90,6 +90,15 @@ Sheikisha Thomas, NBCT
   * Cost: $150 (Scholarships are available)
   * More information: Coming Soon
   
+* [AI4ALL](https://mcwic.cs.umd.edu/outreach/ai4all) AI4ALL is a three-week long, residential computer programming and artificial intelligence (AI) summer camp at the University of Maryland. Nationally, the purpose of AI4ALL is to increase the presence of underrepresented populations within the field of AI. Students will come away from the camp knowing how AI can be used to help people and an idea of what kinds of careers there are in AI.<br>
+The camp will be offered to rising 10th, 11th, and 12th graders in the area with a specific focus on Washington, DC and Prince George’s County (MD) Residents. Students will be exposed to personal growth, education, and hands-on experiences presented by faculty, guest lecturers, and University of Maryland students.<br>
+This program intends to create a more inclusive and diverse field of artificial intelligence by targeting and serving underrepresented communities. Students will be given the opportunity to use artificial intelligence to address problems of a probabilistic and numeric nature. Participants will explore the field of AI through team projects, industry field trips, and presentations from guest speakers. There will also be opportunities to engage with faculty, staff and researchers who have been leaders in AI. Students will be exposed to a breadth of knowledge in the field with the goal of leveraging AI for social good.<br>
+The program will focus on three aspects:
+  * AI education and inspiration
+  * Personal growth
+  * Hands-on research experience.
+The AI4All summer camp at the University of Maryland is part of a larger AI4All initiative. You can learn more about the initiative here:http://ai-4-all.org/ 
+  
 * [Hackground Summer Workshops](https://www.thehackground.org/product/learn-to-build-and-fly-drones/) July 15th - 19th - Learn to build and fly Drones - Grades: Rising  7th, 8th, 9th and 10th - Location: 8171 Maple Lawn Blvd, Lower Level, Maple Lawn, Fulton, MD 20759 - Hours - 9:00 am to 3:30 PM - Drop off - Not earlier than 8:30 am - Pick up - Not later than 4:00 pm (Late pick ups will be charged at 15 minute increments at $20/- per 15 min) - A minimum 6 students needed to hold a workshop - Questions - email us at info@thehackground.org 
 
 * [Hackground Summer Workshops](https://www.thehackground.org/product/ftc-primer/) July 15th - 19th - FTC Primer - Grades: Rising 7th, 8th, 9th graders - Location: 8171 Maple Lawn Blvd, Lower Level, Maple Lawn, Fulton, MD 20759 - Hours - 9:00 am to 3:30 PM - Drop off - Not earlier than 8:30 am - Pick up - Not later than 4:00 pm (Late pick ups will be charged at 15 minute increments at $20/- per 15 min) - A minimum 6 students needed to hold a workshop - Questions - email us at info@thehackground.org	
