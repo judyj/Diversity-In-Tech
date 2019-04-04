@@ -1,4 +1,4 @@
-# Thanks for volunteering!
+# Thanks for caring! Below are volunteer opportunities for us, as well as some exciting summer programs for our kids!
 Any additions/suggestions can be sent to [judy](mailto:judyfinkjohnson@gmail.com)
 
 # Projects
