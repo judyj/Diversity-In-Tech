@@ -222,6 +222,8 @@ the Federal Glass Ceiling Commission](http://inmotionmagazine.com/glass.html)
 * [A Seat at the Head of the Table](https://www.nytimes.com/interactive/2019/02/21/magazine/women-corporate-america.html?mtrref=undefined&gwh=CD2B5D79B3AF34A3191358EBFC584985&gwt=pay)
 * [Why Girls Beat Boys at School and Lose to Them at the Office](https://medium.com/new-york-times-opinion/why-girls-beat-boys-at-school-and-lose-to-them-at-the-office-13527f60e91)
 * [Pixar Takes on Toxic Masculinity in the Workplace With Latest Short](https://www.globalcitizen.org/en/content/pixar-purl-workplace-gender-inequality/)
+* [What Engineering Taught Me About Being a Woman](https://medium.com/fearless-she-wrote/what-engineering-taught-me-about-being-a-woman-296ddb4ba4e4)
+* [The Patriarchy is Alive and Well in the STEM World](https://medium.com/fearless-she-wrote/the-patriarchy-is-alive-and-well-in-the-stem-world-a3a9497a45c2)
 
 # Diversity articles not necessarily gender-related
 * [To Be A Young Black Man Working In An Office Full of White People](https://hackernoon.com/to-be-a-young-black-man-working-in-an-office-full-of-white-people-fcf137d152c8#.a0gs3l9xq)
