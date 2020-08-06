@@ -224,6 +224,7 @@ the Federal Glass Ceiling Commission](http://inmotionmagazine.com/glass.html)
 * [Pixar Takes on Toxic Masculinity in the Workplace With Latest Short](https://www.globalcitizen.org/en/content/pixar-purl-workplace-gender-inequality/)
 * [What Engineering Taught Me About Being a Woman](https://medium.com/fearless-she-wrote/what-engineering-taught-me-about-being-a-woman-296ddb4ba4e4)
 * [The Patriarchy is Alive and Well in the STEM World](https://medium.com/fearless-she-wrote/the-patriarchy-is-alive-and-well-in-the-stem-world-a3a9497a45c2)
+* [The Real Reason the American Economy Boomed After World War II](https://www.nytimes.com/2020/08/06/opinion/middle-class-prosperity.html)
 
 # Diversity articles not necessarily gender-related
 * [To Be A Young Black Man Working In An Office Full of White People](https://hackernoon.com/to-be-a-young-black-man-working-in-an-office-full-of-white-people-fcf137d152c8#.a0gs3l9xq)
